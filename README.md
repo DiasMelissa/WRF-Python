@@ -18,9 +18,9 @@ With it, you can compute derived meteorological variables (such as potential tem
 
 ## ⚙️ Requirements
 
-Before getting started, make sure you have a Python environment configured with the required libraries:
+Before getting started, make sure you have a Python 3.9+ environment configured with the required libraries:
 
 ```bash
-conda create -n wrfpython_env python=3.11
-conda activate wrfpython_env
+conda create -n wrf_python
+conda activate wrf_python
 conda install -c conda-forge wrf-python xarray netCDF4 cartopy matplotlib numpy
