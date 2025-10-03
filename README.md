@@ -24,7 +24,7 @@ Before getting started, make sure you have a Python 3.9+ environment configured 
 conda create -n wrf_python
 conda activate wrf_python
 conda install -c conda-forge wrf-python xarray netCDF4 cartopy matplotlib numpy
-bash```
+```
 
 ## 📖 References
 
