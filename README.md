@@ -24,3 +24,7 @@ Before getting started, make sure you have a Python 3.9+ environment configured 
 conda create -n wrf_python
 conda activate wrf_python
 conda install -c conda-forge wrf-python xarray netCDF4 cartopy matplotlib numpy
+
+## 📖 References
+
+Visualization & Analysis Systems Technologies. (2025). Geoscience Community Analysis Toolkit: WRF-Python (v1.4.0) [Software]. Boulder, CO, USA: UCAR/NCAR - Computational and Informational System Lab. doi:10.5281/zenodo.6685115.
